@@ -1,4 +1,8 @@
 chanchito feliz
 chanchito feliz
 jajajaja1234
+<<<<<<< HEAD
 esto esta solo en main
+=======
+esto solo esta en ramab
+>>>>>>> ramab
